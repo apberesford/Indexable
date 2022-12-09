@@ -1,0 +1,13 @@
+Index:
+
+{
+    "Title": "title",
+    "Levels": number,
+    {"Entry": number,}
+    {"Entry": [subentry, subsubentry]}
+    {[entry, subentry, subsubentry]: [number, number, string]}
+    {Entry: [something, something, 0]}
+    {Referents: [number, string, number]}
+    {Entry: [[string, string, 0], [number, string, number]]}
+
+}
